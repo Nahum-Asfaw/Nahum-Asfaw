@@ -1,4 +1,4 @@
-body {
+body{
     margin: 0;
     background: #263343;
     text-align: center;
@@ -6,4 +6,14 @@ body {
     border: #314C53 solid 20px;
     padding: 20px;
     font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
 }
