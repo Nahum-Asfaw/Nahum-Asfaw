@@ -3,17 +3,12 @@ body{
     background: #263343;
     text-align: center;
     color: #ffffff;
-    border: #314C53 solid 5px;
-    padding: 5px;
+    border: #314C53 solid 10px;
+    padding: 10px;
     font-family: 'Arial', sans-serif;
 }
 
-h2 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
-}
-
-h3 {
-    font-size: 1.2em;
-    margin-bottom: 5px;
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
 }
