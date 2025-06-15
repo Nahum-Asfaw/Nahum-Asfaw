@@ -1,4 +1,4 @@
-body{
+h1{
     margin: 0;
     background: #263343;
     text-align: center;
@@ -8,12 +8,12 @@ body{
     font-family: 'Arial', sans-serif;
 }
 
-h1 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
-}
-
 h2 {
     font-size: 1.5em;
     margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
 }
