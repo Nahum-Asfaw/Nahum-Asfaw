@@ -2,6 +2,8 @@ body {
     margin: 0;
     background: #314C53;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
+    border: #314C53 solid 1px;
+    padding: 20px;
     font-family: 'Arial', sans-serif;
 }
