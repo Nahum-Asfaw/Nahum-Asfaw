@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding: 0;
     background: #263343;
     text-align: center;
     color: #ffffff;
@@ -9,6 +10,13 @@ body{
 }
 
 h1 {
+    margin: 0;
+    background: #263343;
+    text-align: center;
+    color: #ffffff;
+    border: #314C53 solid 10px;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;
     font-size: 4.5em;
     margin-bottom: 20px;
 }
