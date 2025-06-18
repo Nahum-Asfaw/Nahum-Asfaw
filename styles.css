@@ -1,5 +1,4 @@
 body {
-    margin: 0;
     background: #263343;
     text-align: center;
     color: #ffffff;
@@ -13,6 +12,7 @@ h1 {
     margin-right: auto;
     font-size: 5.5rem;
     padding: .2em .4em;
+    margin-top: 100px;
     margin-bottom: 0px;
 }
 
